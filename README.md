@@ -33,13 +33,12 @@ To run this pipeline, you will need two API keys:
    git clone [https://github.com/yourusername/multi-agent-sales-pipeline.git](https://github.com/yourusername/multi-agent-sales-pipeline.git)
    cd multi-agent-sales-pipeline
 
-```
+
 
 2. **Install the required dependencies**
 ```bash
 pip install strands-agents strands-agents-tools tavily-python openai pydantic gradio
 
-```
 
 
 3. **Configure your API keys**
