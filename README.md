@@ -76,14 +76,3 @@ By default, the pipeline uses `anthropic/claude-3.7-sonnet` via OpenRouter for h
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/yourusername/multi-agent-sales-pipeline/issues) if you want to contribute.
-
-## 📝 License
-
-This project is [MIT](https://www.google.com/search?q=LICENSE) licensed.
-
-```
-
-***
-
-If you want to dive deeper into how to structure and optimize this file for maximum engagement, check out [How to Write an Effective README File for Github Projects](https://www.youtube.com/watch?v=nN59j4TELcE). This video breaks down the essential sections, formatting tricks, and visual hierarchy needed to make your repository stand out to other developers.
-http://googleusercontent.com/youtube_content/1
